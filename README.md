@@ -1,4 +1,4 @@
-# IBM Data Science Open-Source Tools
+# IBM Data Science Open Source Tools
 Coursera IBM Data Science - Open Source Tools for Data Science 
 Lab Exercise (Create and share Jupyter Notebook)
 
@@ -19,12 +19,14 @@ Include at least 6 cells:
 Submit:
 
 The URL of your publicly shared notebook on IBM Watson Studio.
-The main grading criteria will be:
 
-Is the notebook publicly viewable?
-Are there, or does there appear to be, at least 5 Markdown cells and 1 code cell?
-Are the criteria for each cell fulfilled, as described in the "Guidelines for Submission"?
-You will not be judged on:
+# The main grading criteria will be:
 
-Your English language, including spelling or grammatical mistakes.
-The content of any text or image(s) or where a link is hyperlinked to.
+- Is the notebook publicly viewable?
+- Are there, or does there appear to be, at least 5 Markdown cells and 1 code cell?
+- Are the criteria for each cell fulfilled, as described in the "Guidelines for Submission"?
+
+# You will not be judged on:
+
+- Your English language, including spelling or grammatical mistakes.
+- The content of any text or image(s) or where a link is hyperlinked to.
