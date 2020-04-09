@@ -1,4 +1,4 @@
-# IBM-Data-Science---Open-Source-Tools
+# IBM Data Science Open-Source Tools
 Coursera IBM Data Science - Open Source Tools for Data Science 
 Lab Exercise (Create and share Jupyter Notebook)
 
